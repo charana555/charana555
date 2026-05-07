@@ -27,18 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/charana-c" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="charana-c" height="30" width="40" /></a>
-    <a href="https://instagram.com/charana_chandrashekar" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="charana_chandrashekar" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/charana555" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="charana555" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/charan_chandrashekar" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="charan_chandrashekar" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/charana-c" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/charana_chandrashekar" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.leetcode.com/charana555" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/charan_chandrashekar" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
