@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://charana.me)
 
-<h1 align="center">Hi 👋, I'm Charana C</h1>
+<h1 align="center">Hi, I'm Charana C</h1>
 <h3 align="center">Full-Stack Developer | AI Automation | DevOps</h3>
 
 <img align="right" alt="Coding" width="400"
@@ -9,21 +9,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charana555&label=Profile%20views&color=0e75b6&style=flat"
         alt="charana555" /> </p>
 
-- 🔭 Currently building **AI Merchant Agent** – Offline LLM-powered transaction debugger for payment systems
+- Currently building **AI Merchant Agent** – Offline LLM-powered transaction debugger for payment systems
 
-- 🚀 Shipping **Local-ELK Data Platform** – Modular analytics with RBAC & ELK stack
+- Shipping **Local-ELK Data Platform** – Modular analytics with RBAC & ELK stack
 
-- 🌱 Deep diving into **DevOps | Kubernetes | AI Automation**
+- Deep diving into **DevOps | Kubernetes | AI Automation**
 
-- 📜 Certifying **AWS Cloud Practitioner** (Expected: May 2025)
+- Certifying **AWS Cloud Practitioner** (Expected: May 2025)
 
-- 📜 Certifying **RHEL 200** (Expected: May 2025)
+- Certifying **RHEL 200** (Expected: May 2025)
 
-- 👨‍💻 All of my projects are available at [charana.dev](charana.dev)
+- All of my projects are available at [charana.dev](charana.dev)
 
-- 💬 Ask me about **React, MERN, NEXT.js, AI Automation, DevOps**
+- Ask me about **React, MERN, NEXT.js, AI Automation, DevOps**
 
-- 📫 Reach me at **contact@charana.dev**
+- Reach me at **contact@charana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
     <a href="https://auth.geeksforgeeks.org/user/charan_chandrashekar" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table>
   <tr>
@@ -50,9 +50,9 @@
       </p>
       <p>Modular internal analytics platform with RBAC, log pipelines & enterprise integrations. Features CSV-to-ELK ingestion, enterprise access controls, and Apache Superset integration.</p>
       <p>
-        🔐 Enterprise-grade RBAC<br>
-        📊 CSV-to-ELK pipelines<br>
-        🔧 Feature toggles
+        • Enterprise-grade RBAC<br>
+        • CSV-to-ELK pipelines<br>
+        • Feature toggles
       </p>
     </td>
     <td width="50%">
@@ -68,16 +68,16 @@
       </p>
       <p>Offline AI-powered transaction flow analyzer for payment gateway debugging. Debug transaction issues by analyzing JSON logs with LLM-guided investigation.</p>
       <p>
-        🔍 Offline log analysis<br>
-        📊 Step-by-step validation<br>
-        💬 Interactive debug mode<br>
-        🏗️ AI flow builder
+        • Offline log analysis<br>
+        • Step-by-step validation<br>
+        • Interactive debug mode<br>
+        • AI flow builder
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charana555&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="charana555" />
@@ -148,4 +148,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/charana555">Charana C</a></p>
+<p align="center">From <a href="https://github.com/charana555">Charana C</a></p>
