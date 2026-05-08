@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://charana.me)
 
-<h1 align="center">Hi, I'm Charana C</h1>
+<h1 align="center"><img src="https://cdn.simpleicons.org/wavedotio/2ea44f" width="25"> Hi, I'm Charana C</h1>
 <h3 align="center">Full-Stack Developer | AI Automation | DevOps</h3>
 
 <img align="right" alt="Coding" width="400"
@@ -9,21 +9,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charana555&label=Profile%20views&color=0e75b6&style=flat"
         alt="charana555" /> </p>
 
-- Currently building **AI Merchant Agent** – Offline LLM-powered transaction debugger for payment systems
+- <img src="https://cdn.simpleicons.org/terraform/2ea44f" width="16"> Currently building **AI Merchant Agent** – Offline LLM-powered transaction debugger for payment systems
 
-- Shipping **Local-ELK Data Platform** – Modular analytics with RBAC & ELK stack
+- <img src="https://cdn.simpleicons.org/rocket/00C7B7" width="16"> Shipping **Local-ELK Data Platform** – Modular analytics with RBAC & ELK stack
 
-- Deep diving into **DevOps | Kubernetes | AI Automation**
+- <img src="https://cdn.simpleicons.org/bookstack/f97316" width="16"> Deep diving into **DevOps | Kubernetes | AI Automation**
 
-- Certifying **AWS Cloud Practitioner** (Expected: May 2025)
+- <img src="https://cdn.simpleicons.org/amazonaws/8b5cf6" width="16"> Certifying **AWS Cloud Practitioner** (Expected: May 2025)
 
-- Certifying **RHEL 200** (Expected: May 2025)
+- <img src="https://cdn.simpleicons.org/redhat/dc2626" width="16"> Certifying **RHEL 200** (Expected: May 2025)
 
-- All of my projects are available at [charana.dev](charana.dev)
+- <img src="https://cdn.simpleicons.org/githubpages/000000" width="16"> All of my projects are available at [charana.dev](charana.dev)
 
-- Ask me about **React, MERN, NEXT.js, AI Automation, DevOps**
+- <img src="https://cdn.simpleicons.org/wechat/3b82f6" width="16"> Ask me about **React, MERN, NEXT.js, AI Automation, DevOps**
 
-- Reach me at **contact@charana.dev**
+- <img src="https://cdn.simpleicons.org/gmail/ef4444" width="16"> Reach me at **contact@charana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
     <a href="https://auth.geeksforgeeks.org/user/charan_chandrashekar" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center"><img src="https://cdn.simpleicons.org/rocket/ff6b6b" width="20"> Featured Projects</h2>
 
 <table>
   <tr>
@@ -50,9 +50,9 @@
       </p>
       <p>Modular internal analytics platform with RBAC, log pipelines & enterprise integrations. Features CSV-to-ELK ingestion, enterprise access controls, and Apache Superset integration.</p>
       <p>
-        • Enterprise-grade RBAC<br>
-        • CSV-to-ELK pipelines<br>
-        • Feature toggles
+        <img src="https://cdn.simpleicons.org/datadog/0891b2" width="14"> Enterprise-grade RBAC<br>
+        <img src="https://cdn.simpleicons.org/databricks/059669" width="14"> CSV-to-ELK pipelines<br>
+        <img src="https://cdn.simpleicons.org/terraform/7c3aed" width="14"> Feature toggles
       </p>
     </td>
     <td width="50%">
@@ -68,16 +68,16 @@
       </p>
       <p>Offline AI-powered transaction flow analyzer for payment gateway debugging. Debug transaction issues by analyzing JSON logs with LLM-guided investigation.</p>
       <p>
-        • Offline log analysis<br>
-        • Step-by-step validation<br>
-        • Interactive debug mode<br>
-        • AI flow builder
+        <img src="https://cdn.simpleicons.org/elasticsearch/0369a1" width="14"> Offline log analysis<br>
+        <img src="https://cdn.simpleicons.org/task/16a34a" width="14"> Step-by-step validation<br>
+        <img src="https://cdn.simpleicons.org/gnometerminal/ca8a04" width="14"> Interactive debug mode<br>
+        <img src="https://cdn.simpleicons.org/probot/9333ea" width="14"> AI flow builder
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center"><img src="https://cdn.simpleicons.org/tools/6366f1" width="20"> Tech Stack</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"><img src="https://cdn.simpleicons.org/githubcharts/10b981" width="20"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charana555&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="charana555" />
